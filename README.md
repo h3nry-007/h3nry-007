@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to H3nry's World (Mr_5n4k3)
 
 <!--
 **h3nry-007/h3nry-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Skills 
+[![My Skills](https://skillicons.dev/icons?i=vim,c,cpp,bash,cmake,docker,github,linux,md,py,qt,regex,neovim,git&perline=2)](https://skillicons.dev)
